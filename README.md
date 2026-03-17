@@ -2,7 +2,7 @@
 
 **Automating and optimizing the loan recovery lifecycle by modeling repayment behavior using diverse data**
 
-### 👨‍💻 Developed by: **Rajath Raj K T**
+### 👨‍💻 Developed by: **K Rahul Sai Ganesh**
 *Springboard Infosys Virtual Internship Program*
 
 ---
